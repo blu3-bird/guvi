@@ -5,6 +5,9 @@ description = ""
 authors = ["arson <youaregifted@myyahoo.com>"]
 readme = "README.md"
 
+[[tool.poetry.packages]]
+include = "configs"
+
 [tool.poetry.dependencies]
 python = "^3.12"
 pandas = "^3.0.5"
