@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+
+*.txt
